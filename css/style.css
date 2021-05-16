@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+}
+
+/* Start heading */
+
+.header {
+    overflow: hidden;
+}
+
+.left {
+    background-color: blueviolet;
+    height: 90px;
+    width: 15%;
+    float: left;
+}
+
+.left h1 {
+    text-align: left;
+}
+
+.right {
+    background-color: rgb(226, 43, 104);
+    height: 90px;
+    width: 85%;
+    float: left;
+}
+
+.right h1 {
+    text-align: center;
+}
+
+/* End heading */
+
+/* ---------------------- */
+
+/* Start Content */
+
+.content {
+    overflow: hidden;
+}
+
+.left-content {
+    background-color: chartreuse;
+    width: 20%;
+    height: 300px;
+    float: left;
+}
+
+.left-content h1 {
+    text-align: left;
+}
+
+.middle-content {
+    background-color: rgb(34, 14, 138);
+    width: 65%;
+    height: 300px;
+    float: left;
+}
+
+.middle-content h1 {
+    text-align: left;
+}
+
+.right-content {
+    background-color: rgb(211, 208, 17);
+    width: 15%;
+    height: 300px;
+   float: left;
+}
+
+.right-content h1 {
+    text-align: center;
+}
+
+/* End Content */
+
+/* ----------------------- */
+
+/* Start footer */
+
+.footer{
+   background-color: brown;
+   height: 90px; 
+
+
+}
+.footer h1{
+text-align: left;
+}
+
+/* End footer */
